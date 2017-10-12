@@ -1,11 +1,14 @@
 #include<stdio.h>
-#include<stringh>
 void main()
 {
-char a[10];
-printf("enter the string ",a[10]);
-if(a[10]==0)
-{
-printf("the word is hello",a[10]);
+  int n,i,sum=0;
+  printf("enter the number\n",n);
+  scanf("%d"n);
+  if(i=1;i<=n;i++)
+  {
+    sum=sum+i;
+    printf("sum");
+  }
 }
-}
+    
+
